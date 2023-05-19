@@ -1,4 +1,4 @@
-## First Task 
+## PLANT CLASSIFICATION
 What is required now is to start with the first planting guide feature for the awareness app, which is to identify the plant's type ! 
 
 We have 3 Models to build based on the 3 provided datasets : 
@@ -24,8 +24,8 @@ https://www.kaggle.com/competitions/plant-seedlings-classification/overview (See
 
 ## Updates  
 
-1- We have changed the flowers dataset to another one which provide more classes (16 rather than 5 classes) and images for each class and therefore our model is more efficient than before, covering more flower types than the previous dataset.
+1- I have changed the flowers dataset to another one which provide more classes (16 rather than 5 classes) and images for each class and therefore our model is more efficient than before, covering more flower types than the previous dataset.
 
 The new dataset link :  https://www.kaggle.com/datasets/l3llff/flowers 
 
-2- We developed the 2 models for plant identification feature which are `LEAVES` & `FlOWRES` Models, and the third model `SEEDLINGS` will be used as an added feature, it will be used to identify if the seedlings is a plant or a weed ?
+2- I developed the 2 models for plant identification feature which are `LEAVES` & `FlOWRES` Models, and the third model `SEEDLINGS` will be used as an added feature, it will be used to identify if the seedlings is a plant or a weed ?
