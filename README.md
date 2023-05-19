@@ -1,1 +1,7 @@
 # Together
+Climate change is a critical global issue that is impacting the Earth in various ways. Agriculture is particularly affected, with increased spread of pests and diseases leading to significant crop yield losses, amounting to 40% of global production annually. These losses have severe economic consequences and pose a threat to global food security. Unfortunately, many people believe that their individual actions will not make a difference in combating climate change, often due to limited access to tools and knowledge that could help them make a meaningful impact.
+Together is awarness and climate positive farming application for developing  a mobile application and an IoT-based agriculture system to address the challenges posed by climate change in the agriculture sector. The system will provide farms with tools to mitigate the effects of climate change and enhance productivity. The IoT-based agriculture system will offer features like intelligent weed and disease detection, as well as crop recommendations based on soil analysis, to optimize yields and minimize losses. The accompanying mobile app will provide users with a smart planting guide, a platform for raising awareness and sharing experiences related to climate change, a pollution reporting feature, and a marketplace promoting eco-friendly products. Additionally, the app will include a reward program allowing users to earn and redeem points for their contributions. The project aims to empower farmers and promote sustainable practices in agriculture.
+
+
+
+
